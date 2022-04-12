@@ -1,0 +1,6 @@
+﻿  Ciklicheskii_odnosvyaznii_spisok.cpp
+  main.cpp
+C:\Users\DASHA\source\repos\lr2\lr2\main.cpp(23,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\DASHA\source\repos\lr2\lr2\main.cpp(31,17): warning C4101: x: неиспользованная локальная переменная
+  Создание кода...
+  lr2.vcxproj -> C:\Users\DASHA\source\repos\lr2\Debug\lr2.exe
